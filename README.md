@@ -12,6 +12,14 @@ The `requirements.txt` file lists all of the required Python libraries. Navigate
 pip install -r requirements.txt
 ```
 
+## Usage
+
+Navigate to the installed directory and run:
+
+```
+python main.py
+```
+
 ## Credits
 
 - Thanks to Edexcel for providing the Large Data Set.
