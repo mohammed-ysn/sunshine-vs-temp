@@ -6,6 +6,8 @@ An investigation between daily total sunshine and daily mean temperature using P
 
 ## Installation
 
+Please ensure you have Python 3 installed.
+
 The `requirements.txt` file lists all of the required Python libraries. Navigate to the installed directory and run:
 
 ```
