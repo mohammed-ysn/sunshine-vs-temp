@@ -1,8 +1,8 @@
-# Sunshine vs temperature
+# Temperature vs sunshine
 
 ## Description
 
-An investigation between daily total sunshine and daily mean temperature using Python.
+An investigation between daily mean temperature and daily total sunshine using Python.
 
 ## Installation
 
