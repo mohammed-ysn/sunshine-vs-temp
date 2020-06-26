@@ -10,7 +10,7 @@ def main():
     plt.scatter(total_sun, mean_temp)
     plt.plot(np.unique(total_sun), np.poly1d(np.polyfit(
         total_sun, mean_temp, 1))(np.unique(total_sun)), color='orange')
-    plt.title('Sunshine vs temperature')
+    plt.title('Temperature vs. sunshine')
     plt.xlabel('Daily total sunshine / hrs')
     plt.ylabel('Daily mean temperature / °C')
     plt.show()
